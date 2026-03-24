@@ -1,1 +1,1 @@
-# NLU-Word_Embeddings-Character-level-name-generation-using-RNN-variants
+# NLU-Word_Embeddings-Character_level_name_generation_using_RNN_variants
